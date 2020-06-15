@@ -40,6 +40,10 @@ function instructorHeight(instructor){
 if(instructor === 'Colin'){
   return 62
 }
+else if (instructor === 'Mesuara'){
+return 67
+}
+
 }
 /**********************************
  *      OUR CODE GOES BELOW.      *
