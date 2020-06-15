@@ -16,7 +16,14 @@ if(str.length >= 10 && str.length <= 20){
 }
 }
 
-
+function isItShort(str){
+if(str.length < 10){
+return "That's a small string!"
+}
+else if (str.length >= 10){
+return "That's not a small string!"
+}
+}
 
 /**********************************
  *      OUR CODE GOES BELOW.      *
