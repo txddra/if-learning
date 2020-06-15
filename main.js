@@ -43,7 +43,7 @@ if(instructor === 'Colin'){
 else if (instructor === 'Mesuara'){
 return 67
 }
-
+return "I don't know that instructor!"
 }
 /**********************************
  *      OUR CODE GOES BELOW.      *
