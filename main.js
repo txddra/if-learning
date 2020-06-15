@@ -35,6 +35,12 @@ return "That's a regular sized string!"
 return "That's a small string!"
 }
 
+
+function instructorHeight(instructor){
+if(instructor === 'Colin'){
+  return 62
+}
+}
 /**********************************
  *      OUR CODE GOES BELOW.      *
  * THIS IS FOR INTERNAL USE ONLY. *
